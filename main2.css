@@ -1,0 +1,35 @@
+html {
+    background-color:azure;
+    overflow: hidden;
+}    
+
+#titulo {
+    text-align: center;
+    font-size: 20px;
+    border: solid 5px ;
+    border-radius: 10px;
+}
+
+#paragrafo1 {
+    position: absolute;
+    left: 440px;
+    bottom: 360px;
+}
+
+#imagem1 {
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+
+#links {
+    position: absolute;
+    bottom: 705px;
+    left: 30px;
+}
+
+#links1 {
+    position: absolute;
+    bottom: 705px;
+    left: 1330px;
+}

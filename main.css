@@ -1,0 +1,31 @@
+@media(max-width: 2580px) {
+html {
+    background-color:azure;
+    overflow: hidden;
+}
+
+#titulo {
+    text-align: center;
+    font-size: 20px;
+    border: solid 5px ;
+    border-radius: 10px;
+}
+
+#imagem1 {
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+
+#paragrafo1 {
+    position: relative;
+    left: 430px;
+    bottom: 300px;
+}
+
+#links {
+    position: absolute;
+    left: 440px;
+    bottom: 460px;
+}
+}
