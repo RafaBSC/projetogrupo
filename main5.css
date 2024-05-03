@@ -1,10 +1,9 @@
-@media(max-width: 2580px) {
 html {
     background-color:azure;
     overflow: hidden;
-}
+}    
 
-#palavra {
+#palavra{
     color: red;
 }
 
@@ -15,21 +14,14 @@ html {
     border-radius: 10px;
 }
 
+#paragrafo1 {
+    position: absolute;
+    left: 440px;
+    bottom: 510px;
+}
+
 #imagem1 {
     position: relative;
     top: 20px;
     left: 20px;
-}
-
-#paragrafo1 {
-    position: relative;
-    left: 430px;
-    bottom: 300px;
-}
-
-#links {
-    position: absolute;
-    left: 440px;
-    bottom: 460px;
-}
 }

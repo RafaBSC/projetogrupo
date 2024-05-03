@@ -3,7 +3,7 @@ html {
     overflow: hidden;
 }    
 
-#palavra {
+#palavra{
     color: red;
 }
 
@@ -17,7 +17,7 @@ html {
 #paragrafo1 {
     position: absolute;
     left: 440px;
-    bottom: 360px;
+    bottom: 586px;
 }
 
 #imagem1 {
@@ -26,44 +26,44 @@ html {
     left: 20px;
 }
 
+#linkhome {
+    position: absolute;
+    bottom: 705px;
+    left: 65px;
+}
+
 #links {
     position: absolute;
     bottom: 705px;
-    left: 70px;
+    left: 150px;
 }
 
 #links1 {
     position: absolute;
     bottom: 705px;
-    left: 1330px;
+    left: 300px;
 }
 
 #links2 {
     position: absolute;
     bottom: 705px;
-    left: 180px ;
+    left: 1230px ;
 }
 
 #links3 {
     position: absolute;
     bottom: 705px;
-    left: 380px ;
+    left: 520px ;
 }
 
 #links4 {
     position: absolute;
     bottom: 705px;
-    left: 870px ;
+    left: 830px ;
 }
 
 #links5 {
     position: absolute;
     bottom: 705px;
-    left: 1013px;
-}
-
-#links6 {
-    position: absolute;
-    bottom: 705px;
-    left: 1140px;
+    left: 1020px;
 }
