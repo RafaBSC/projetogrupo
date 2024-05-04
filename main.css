@@ -1,7 +1,5 @@
-@media(max-width: 2580px) {
 html {
     background-color:azure;
-    overflow: hidden;
 }
 
 #palavra {
@@ -16,20 +14,20 @@ html {
 }
 
 #imagem1 {
-    position: relative;
-    top: 20px;
-    left: 20px;
+    position: absolute;
+    top: 10%;
+    left: 2%;
 }
 
 #paragrafo1 {
-    position: relative;
-    left: 430px;
-    bottom: 300px;
+    position: absolute;
+    left: 30.5%;
+    top: 8%;
 }
 
 #links {
     position: absolute;
-    left: 440px;
-    bottom: 460px;
+    left: 30.6%;
+    top: 18%;
 }
-}
+

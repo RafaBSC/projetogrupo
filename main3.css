@@ -1,6 +1,5 @@
 html {
     background-color:azure;
-    overflow: hidden;
 }    
 
 #palavra {
@@ -16,55 +15,55 @@ html {
 
 #paragrafo1 {
     position: absolute;
-    left: 440px;
-    bottom: 463px;
+    left: 30%;
+    top: 7%;
 }
 
 #imagem1 {
-    position: relative;
-    top: 20px;
-    left: 20px;
+    position: absolute;
+    top: 9%;
+    left: 2%;
 }
 
 #linkhome {
     position: absolute;
-    bottom: 705px;
-    left: 65px;
+    top:2%;
+    left: 4.5%;
 }
 
 #links {
     position: absolute;
-    bottom: 705px;
-    left: 1287px;
+    top:2%;
+    right: 1.5%;
 }
 
 #links1 {
     position: absolute;
-    bottom: 705px;
-    left: 130px;
+    top:2%;
+    left: 9%;
 }
 
 #links2 {
     position: absolute;
-    bottom: 705px;
-    left: 330px ;
+    top:2%;
+    left: 23%;
 }
 
 #links3 {
     position: absolute;
-    bottom: 705px;
-    left: 520px ;
+    top:2%;
+    left: 36.3% ;
 }
 
 #links4 {
     position: absolute;
-    bottom: 705px;
-    left: 830px ;
+    top:2%;
+    right: 35% ;
 }
 
 #links5 {
     position: absolute;
-    bottom: 705px;
-    left: 1040px;
+    top:2%;
+    right: 18%;
 }
 

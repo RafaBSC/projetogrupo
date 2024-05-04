@@ -34,35 +34,35 @@ html {
 #links {
     position: absolute;
     top:2%;
-    left: 10.5%;
+    left: 10%;
 }
 
 #links1 {
     position: absolute;
     top:2%;
-    left: 20.5%;
+    left: 25%;
 }
 
 #links2 {
     position: absolute;
     top:2%;
-    right: 1.5%;
+    left: 37% ;
 }
 
 #links3 {
     position: absolute;
     top:2%;
-    left: 36.2% ;
+    right: 31% ;
 }
 
 #links4 {
     position: absolute;
     top:2%;
-    right: 36% ;
+    right: 1.5%;
 }
 
 #links5 {
     position: absolute;
     top:2%;
-    right: 19.5%;
+    right: 15%;
 }

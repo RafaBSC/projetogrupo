@@ -34,7 +34,7 @@ html {
 #links {
     position: absolute;
     top:2%;
-    left: 10.5%;
+    left: 10%;
 }
 
 #links1 {
@@ -46,23 +46,29 @@ html {
 #links2 {
     position: absolute;
     top:2%;
-    right: 1.5%;
+    left: 30.5% ;
 }
 
 #links3 {
     position: absolute;
     top:2%;
-    left: 36.2% ;
+    right: 32.5% ;
 }
 
 #links4 {
     position: absolute;
     top:2%;
-    right: 36% ;
-}
+    right: 21%;
+} 
 
 #links5 {
     position: absolute;
     top:2%;
-    right: 19.5%;
+    right: 2%;
+}
+
+#fonte {
+    position: absolute;
+    bottom: 2%;
+    left:2% ;
 }
